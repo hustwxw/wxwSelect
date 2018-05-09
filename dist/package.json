@@ -1,0 +1,24 @@
+{
+  "name": "wxw-vue-select",
+  "version": "2.0.0",
+  "description": "vue版本的select模拟",
+  "main": "wxwVueSelect.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hustwxw/wxwSelect.git"
+  },
+  "keywords": [
+    "html",
+    "select",
+    "vue"
+  ],
+  "author": "solomonwu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hustwxw/wxwSelect/issues"
+  },
+  "homepage": "https://github.com/hustwxw/wxwSelect#readme"
+}
